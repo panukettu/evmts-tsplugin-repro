@@ -21,10 +21,10 @@
     "wagmi": "~1.4.1"
   },
   "devDependencies": {
-    "@evmts/config": "^0.8.0",
-    "@evmts/ts-plugin": "^0.8.0",
-    "@evmts/vite-plugin": "^0.8.0",
-    "@evmts/webpack-plugin": "^0.8.0",
+    "@evmts/config": "^0.10.0",
+    "@evmts/ts-plugin": "^0.10.0",
+    "@evmts/vite-plugin": "^0.11.2",
+    "@evmts/webpack-plugin": "^0.11.2",
     "@nomicfoundation/hardhat-foundry": "^1.1.1",
     "@openzeppelin/contracts": "^4.9.3",
     "@types/node": "^20.5.9",
